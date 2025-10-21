@@ -2,9 +2,7 @@
 
 Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina tem como objetivo proporcionar uma base sólida nos principais conceitos e práticas do desenvolvimento web backend, capacitando os alunos a criar, manter e evoluir aplicações utilizando tecnologias amplamente adotadas na indústria. A seguir, apresentamos a ementa da disciplina e os principais tópicos que serão abordados.Espero que este curso seja uma experiência prazerosa e que todos possam desenvolver habilidades essenciais para o mercado de trabalho :).
 
-# Cronograma da Disciplina – 2025/2026 (Atualizado)
-
-# Cronograma da Disciplina – 2025/2026 (Atualizado)
+# Cronograma da Disciplina – 2025/2026
 
 | Nº Aula | Data       | Tópicos                                                                 | Materiais Utilizados |
 |:--------:|:-----------|:------------------------------------------------------------------------|:---------------------|
