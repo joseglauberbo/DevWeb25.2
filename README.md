@@ -7,7 +7,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | Nº Aula | Data       | Tópicos                                                                 | Materiais Utilizados |
 |:--------:|:-----------|:------------------------------------------------------------------------|:---------------------|
 | 1 | 20/10/2025 | Aula de apresentação da disciplina: ementa, avaliações etc | [Slide aula 1](https://docs.google.com/presentation/d/16k0dXuEQPTFzzKPny_Uda1uFE8V0BIC-/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
-| 2 | 22/10/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias | Slide aula 2 |
+| 2 | 22/10/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias | [Slide aula 2](https://docs.google.com/presentation/d/1CucBb2H8MKiLn96V8_4TE5WZc-Wuup6A/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 3 | 29/10/2025 | Versionamento de código | Slide aula 3 |
 | 4 | 03/11/2025 | Node.js, Express e arquitetura REST | Slide aula 4 |
 | 5 | 05/11/2025 | Miniteste 1 - Criação de servidor inicial | Miniteste 1 e Form submissão |
