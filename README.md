@@ -9,7 +9,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 1 | 20/10/2025 | Aula de apresentação da disciplina: ementa, avaliações etc | [Slide aula 1](https://docs.google.com/presentation/d/16k0dXuEQPTFzzKPny_Uda1uFE8V0BIC-/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 2 | 22/10/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias | [Slide aula 2](https://docs.google.com/presentation/d/1CucBb2H8MKiLn96V8_4TE5WZc-Wuup6A/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 3 | 29/10/2025 |  Node.js, Express e arquitetura REST | [Slide aula 3](https://docs.google.com/presentation/d/1lQWfhtesWFONB-9Ti7G4GK59ZaFcD4S-/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
-| 4 | 03/11/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | Slide aula 4 |
+| 4 | 03/11/2025 | Definição de requisitos. Modelo de negócios. Métodos HTTP, códigos e mensagens de erro | [Slide aula 4](https://docs.google.com/presentation/d/1ahW6ZTDlaYLW0n_v8NtwNZ6pbU7f4ZVEQs9nur1QOFQ/edit?usp=sharing) |
 | 5 | 05/11/2025 |Javascript x Typescript e introdução à API RESTful | |Slide aula 5 |
 | 6 | 10/11/2025 | Miniteste 1 - Criação de servidor inicial | [Miniteste 1 e Form submissão](https://docs.google.com/document/d/1t0ZPb069tE1K6eXV4fcBpkek7KpIPaSi/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true)|
 | 7 | 12/11/2025 | Versionamento de código | Slide aula 7 |
