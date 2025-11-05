@@ -10,7 +10,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 2 | 22/10/2025 | História e evolução do desenvolvimento web. Ferramentas e tecnologias | [Slide aula 2](https://docs.google.com/presentation/d/1CucBb2H8MKiLn96V8_4TE5WZc-Wuup6A/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 3 | 29/10/2025 |  Node.js, Express e arquitetura REST | [Slide aula 3](https://docs.google.com/presentation/d/1lQWfhtesWFONB-9Ti7G4GK59ZaFcD4S-/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 4 | 03/11/2025 | Definição de requisitos. Modelo de negócios. | [Slide aula 4](https://docs.google.com/presentation/d/1ahW6ZTDlaYLW0n_v8NtwNZ6pbU7f4ZVEQs9nur1QOFQ/edit?usp=sharing) |
-| 5 | 05/11/2025 | Métodos HTTP, códigos e mensagens de erro. Versionamento de código.| |Slide aula 5 |
+| 5 | 05/11/2025 | Métodos HTTP, códigos e mensagens de erro. Versionamento de código.| [Slide aula 5](https://docs.google.com/presentation/d/1wcv8gQcmQIc_gDPKIzvsZquWAwYVNGDG/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
 | 6 | 10/11/2025 | Miniteste 1 - Criação de servidor inicial | [Miniteste 1 e Form submissão](https://docs.google.com/document/d/1t0ZPb069tE1K6eXV4fcBpkek7KpIPaSi/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true)|
 | 7 | 12/11/2025 | Javascript x Typescript e introdução à API RESTful. | Slide aula 7 |
 | 8 | 17/11/2025 | Introdução à Arquitetura de Camadas | Slide aula 8 |
