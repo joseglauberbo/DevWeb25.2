@@ -14,7 +14,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 6 | 10/11/2025 | Miniteste 1 - Criação de servidor inicial | [Miniteste 1](https://docs.google.com/document/d/1t0ZPb069tE1K6eXV4fcBpkek7KpIPaSi/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) e [Form submissão](https://forms.gle/5nXbB8kAmhUjVP1W7)|
 | 7 | 12/11/2025 | Continuação Miniteste 1. | |
 | 8 | 17/11/2025 | Introdução à Arquitetura de Camadas| [Slide aula 8](https://docs.google.com/presentation/d/1_3TiiyB1vVvfvgUMNfYdIrarEFMge_7b/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) |
-| 9 | 19/11/2025 | PRÁTICA – Arquitetura de camadas | Slide aula 9 |
+| 9 | 19/11/2025 | PRÁTICA – Arquitetura de camadas | [Slide aula 9](https://docs.google.com/presentation/d/15jKpOnRqoE3jCwChjAK9O6rTyPtRkHEP/edit?usp=sharing&ouid=113884329448078609087&rtpof=true&sd=true) e [Laboratório inicial - Arquitetura](https://docs.google.com/document/d/15JpObJBi9j8u9D0JwN9NAGQYQKQb-XPF-DJNgq2Scm0/edit?usp=sharing) |
 | 10 | 24/11/2025 | Miniteste 2 - Laboratório de Banco de Dados. | Laboratório Banco de Dados |
 | 11 | 26/11/2025 | 2º Acompanhamento de projeto |  |
 | 12 | 01/12/2025 | 3º Acompanhamento de projeto |  |
