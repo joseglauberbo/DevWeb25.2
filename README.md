@@ -41,8 +41,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 ## Projeto
 
 Descrição: https://docs.google.com/document/d/1hadZnj66-RqO5Lwdjqgir3BiWl6qrGDI3bsNRiYhI8E/edit?usp=sharing
-
-Formulário de submissão do projeto: 
+Formulário submissão URL projeto: https://forms.gle/SXe4m9UV3952P8Be6 
 
 1ª entrega:
 2ª entrega: 
