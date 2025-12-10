@@ -18,30 +18,32 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 10 | 24/11/2025 | Miniteste 2 - Continuação Arquitetura em Camadas. | Banco de Dados |
 | 11 | 26/11/2025 | 2º Acompanhamento de projeto |  |
 | 12 | 01/12/2025 | 3º Acompanhamento de projeto |  |
-| 13 | 03/12/2025 | 1ª entrega projeto | |
-| 14 | 10/12/2025 | Funcionalidades avançadas e boas práticas APIs RESTful I & Validação de dados no backend | Slide aula 14 |
-| 15 | 15/12/2025 | Miniteste 3 – Autenticação e Autorização  | Slide aula 15 |
-| 16 | 17/12/2025 | Laboratório de Autenticação e Autorização | Link laboratório |
-| 17 | 26/01/2026 | Testes de backend | Slide aula 18|
-| 18 | 28/01/2026 | Prática - Testes de backend | Laboratório de Testes de Backend |
-| 19 | 02/02/2026 | 5º Acompanhamento de projeto |  |
-| 20 | 04/02/2026 | 6º Acompanhamento de projeto |  |
-| 21 | 09/02/2026 | Frameworks de frontend | Slide aula 222 |
-| 22 | 11/02/2026 | Miniteste 4 - Frontend | Documento atividade - Frontend |
-| 23 | 23/02/2026 | 7º Acompanhamento de projeto |  |
-| 24 | 25/02/2026 | 8º Acompanhamento de projeto |  |
-| 25 | 02/03/2026 | Integração API e Frontend |  |
-| 26 | 04/03/2026 | Entrega 3 |  |
-| 27 | 09/03/2026 | (Conteúdo adicional ou revisão) |  |
-| 28 | 11/03/2026 | (Conteúdo adicional ou projeto) |  |
-| 29 | 16/03/2026 | (Encerramento / avaliação / ajustes finais) |  |
+| 13 | 03/12/2025 | 4º Acompanhamento de projeto | |
+| 14 | 10/12/2025 | 1ª entrega projeto | |
+| 15 | 15/12/2025 | Funcionalidades avançadas e boas práticas APIs RESTful | Slide aula 15 |
+| 16 | 17/12/2025 | Validação de dados no backend | Miniteste 3 – Autenticação e Autorização |
+| 17 | 26/01/2026 | Revisão e introdução à Testes de backend | Slide aula 17|
+| 18 | 28/01/2026 | Testes de backend | Slide aula 18 |
+| 19 | 02/02/2026 | Prática - Testes de backend | Documento de atividade Testes Backend |
+| 20 | 04/02/2026 | 5º Acompanhamento de projeto |  |
+| 21 | 09/02/2026 | 6º Acompanhamento de projeto| |
+| 22 | 11/02/2026 | 2ª entrega projeto | Aula de dúvidas |
+| 23 | 23/02/2026 | Frameworks de frontend  | Slide aula 23|
+| 24 | 25/02/2026 | Atividade Frontend I | Documento Atividade Frontend I |
+| 25 | 02/03/2026 | Atividade Frontend II | Documento Atividade Frontend II |
+| 26 | 04/03/2026 | Integração API e Frontend |  |
+| 27 | 09/03/2026 | Deployment I |  |
+| 28 | 11/03/2026 | Deployment II |  |
+| 29 | 16/03/2026 | 3ª entrega do projeto |  |
+| 30 | 18/03/2026 | (Encerramento - divulgação das notas |  |
+| 30 | 23/03/2026 | Final da disciplina |  |
 
 
 ## Projeto
 
 Descrição: https://docs.google.com/document/d/1hadZnj66-RqO5Lwdjqgir3BiWl6qrGDI3bsNRiYhI8E/edit?usp=sharing
 
-Formulário submissão URL projeto: https://forms.gle/SXe4m9UV3952P8Be6 
+Formulário submissão URL projeto:
 
 1ª entrega:
 
