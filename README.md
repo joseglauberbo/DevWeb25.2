@@ -20,7 +20,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 12 | 01/12/2025 | 3º Acompanhamento de projeto |  |
 | 13 | 03/12/2025 | 4º Acompanhamento de projeto | |
 | 14 | 10/12/2025 | 1ª entrega projeto | |
-| 15 | 15/12/2025 | Funcionalidades avançadas e boas práticas APIs RESTful | Slide aula 15 |
+| 15 | 15/12/2025 | Funcionalidades avançadas e boas práticas APIs RESTful | [Slide aula 15](https://docs.google.com/presentation/d/1REjF2lW1RcsJcJLHlxVW1yVIH57us6PxNMI7bk75uQs/edit?slide=id.p#slide=id.p) |
 | 16 | 17/12/2025 | Validação de dados no backend | Miniteste 3 – Autenticação e Autorização |
 | 17 | 26/01/2026 | Revisão e introdução à Testes de backend | Slide aula 17|
 | 18 | 28/01/2026 | Testes de backend | Slide aula 18 |
