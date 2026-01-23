@@ -21,9 +21,9 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 13 | 03/12/2025 | 4º Acompanhamento de projeto | |
 | 14 | 10/12/2025 | 1ª entrega projeto | |
 | 15 | 15/12/2025 | Funcionalidades avançadas e boas práticas APIs RESTful | [Slide aula 15](https://docs.google.com/presentation/d/1REjF2lW1RcsJcJLHlxVW1yVIH57us6PxNMI7bk75uQs/edit?slide=id.p#slide=id.p) |
-| 16 | 17/12/2025 | Validação de dados no backend | Miniteste 3 – Autenticação e Autorização |
-| 17 | 26/01/2026 | Revisão e introdução à Testes de backend | Slide aula 17|
-| 18 | 28/01/2026 | Testes de backend | Slide aula 18 |
+| 16 | 17/12/2025 | Validação de dados no backend | |
+| 17 | 26/01/2026 | Revisão e Laboratório de Autenticação e Autorização | [Link laboratório](https://docs.google.com/presentation/d/1BYqBiHAXw9DvR32LzCC5ykB5YenQrODiFaCI3ngz7U8/edit?slide=id.p#slide=id.p)|
+| 18 | 28/01/2026 | Testes de backend | [Slide aula 18](https://docs.google.com/presentation/d/1BYqBiHAXw9DvR32LzCC5ykB5YenQrODiFaCI3ngz7U8/edit?slide=id.p#slide=id.p) |
 | 19 | 02/02/2026 | Prática - Testes de backend | Documento de atividade Testes Backend |
 | 20 | 04/02/2026 | 5º Acompanhamento de projeto |  |
 | 21 | 09/02/2026 | 6º Acompanhamento de projeto| |
