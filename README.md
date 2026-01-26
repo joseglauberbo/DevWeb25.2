@@ -45,7 +45,7 @@ Descrição: https://docs.google.com/document/d/1hadZnj66-RqO5Lwdjqgir3BiWl6qrGD
 
 Formulário submissão URL projeto:
 
-1ª entrega:
+1ª entrega: https://docs.google.com/spreadsheets/d/1FySrkiB-zfbPjE1jLipGc7BS-srsLrEOS2_-fmp5OBQ/edit?usp=sharing
 
 2ª entrega: 
 
