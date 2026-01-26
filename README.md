@@ -53,10 +53,7 @@ Formulário submissão URL projeto:
 
 ## Planilha de notas
 
-
-
-
-
+https://docs.google.com/spreadsheets/d/1FySrkiB-zfbPjE1jLipGc7BS-srsLrEOS2_-fmp5OBQ/edit?usp=sharing 
 
 
 
