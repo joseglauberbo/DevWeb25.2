@@ -27,8 +27,8 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 19 | 02/02/2026 | Prática - Testes de backend | Documento de atividade Testes Backend |
 | 20 | 04/02/2026 | 5º Acompanhamento de projeto |  |
 | 21 | 09/02/2026 | 6º Acompanhamento de projeto| |
-| 22 | 11/02/2026 | 2ª entrega projeto | Aula de dúvidas |
-| 23 | 23/02/2026 | Frameworks de frontend  | Slide aula 23|
+| 22 | 11/02/2026 | 7º Acompanhamento de projeto | Aula de dúvidas |
+| 23 | 23/02/2026 | Frameworks de frontend e 2ª entrega projeto| Slide aula 23 |
 | 24 | 25/02/2026 | Atividade Frontend I | Documento Atividade Frontend I |
 | 25 | 02/03/2026 | Atividade Frontend II | Documento Atividade Frontend II |
 | 26 | 04/03/2026 | Integração API e Frontend |  |
@@ -45,7 +45,7 @@ Descrição: https://docs.google.com/document/d/1hadZnj66-RqO5Lwdjqgir3BiWl6qrGD
 
 Formulário submissão URL projeto:
 
-1ª entrega: https://docs.google.com/spreadsheets/d/1FySrkiB-zfbPjE1jLipGc7BS-srsLrEOS2_-fmp5OBQ/edit?usp=sharing
+1ª entrega: https://forms.gle/ftn18o1tyFuWr7ub7
 
 2ª entrega: https://forms.gle/6Yyw7Wb5nZhfUqTm8
 
