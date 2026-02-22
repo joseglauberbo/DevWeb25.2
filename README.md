@@ -47,7 +47,7 @@ Formulário submissão URL projeto:
 
 1ª entrega: https://docs.google.com/spreadsheets/d/1FySrkiB-zfbPjE1jLipGc7BS-srsLrEOS2_-fmp5OBQ/edit?usp=sharing
 
-2ª entrega: 
+2ª entrega: https://forms.gle/6Yyw7Wb5nZhfUqTm8
 
 3ª entrega:
 
