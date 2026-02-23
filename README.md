@@ -28,7 +28,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 20 | 04/02/2026 | 5º Acompanhamento de projeto |  |
 | 21 | 09/02/2026 | 6º Acompanhamento de projeto| |
 | 22 | 11/02/2026 | 7º Acompanhamento de projeto | Aula de dúvidas |
-| 23 | 23/02/2026 | Frameworks de frontend e 2ª entrega projeto| Slide aula 23 |
+| 23 | 23/02/2026 | Frameworks de frontend e 2ª entrega projeto| [Slide aula 23](https://docs.google.com/presentation/d/1H6rPBM7j2s1pWMORXDGgjskgcWyDJagTSycv-L8KV-s/edit?usp=sharing) |
 | 24 | 25/02/2026 | Atividade Frontend I | Documento Atividade Frontend I |
 | 25 | 02/03/2026 | Atividade Frontend II | Documento Atividade Frontend II |
 | 26 | 04/03/2026 | Integração API e Frontend |  |
