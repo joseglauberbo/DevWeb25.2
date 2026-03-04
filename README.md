@@ -30,10 +30,10 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 22 | 11/02/2026 | 7º Acompanhamento de projeto | Aula de dúvidas |
 | 23 | 23/02/2026 | Frameworks de frontend e 2ª entrega projeto| [Slide aula 23](https://docs.google.com/presentation/d/1H6rPBM7j2s1pWMORXDGgjskgcWyDJagTSycv-L8KV-s/edit?usp=sharing) |
 | 24 | 25/02/2026 | Atividade Frontend I | [Documento Atividade Frontend I](https://docs.google.com/document/d/1Uk2qaWraE5EAz4iJ0Z--ZTPvffSzqOW9A4G-WCPie2s/edit?usp=sharing) |
-| 25 | 02/03/2026 | Atividade Frontend II | Documento Atividade Frontend II |
-| 26 | 04/03/2026 | Integração API e Frontend |  |
-| 27 | 09/03/2026 | Deployment I |  |
-| 28 | 11/03/2026 | Deployment II |  |
+| 25 | 02/03/2026 | Atividade Frontend II | [Acompanhamento Prototipação de Telas] |
+| 26 | 04/03/2026 | Iniciando com React | [Iniciando aplicação com React + Vite ](https://docs.google.com/presentation/d/1gubgG62jU6562VnFC32AfEQB2QUfc1SlsiNIgGMU9MM/edit?usp=sharing) |
+| 27 | 09/03/2026 | Integração Backend com Frontend | [Documento de integração]|
+| 28 | 11/03/2026 | Deployment |  |
 | 29 | 16/03/2026 | 3ª entrega do projeto |  |
 | 30 | 18/03/2026 | (Encerramento - divulgação das notas |  |
 | 30 | 23/03/2026 | Final da disciplina |  |
