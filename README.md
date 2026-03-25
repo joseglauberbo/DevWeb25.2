@@ -36,7 +36,7 @@ Bem-vindos à disciplina de Princípios de Desenvolvimento Web! Esta disciplina 
 | 28 | 11/03/2026 | Deployment |  |
 | 29 | 16/03/2026 | 3ª entrega do projeto |  |
 | 30 | 18/03/2026 | (Encerramento - divulgação das notas |  |
-| 30 | 23/03/2026 | Final da disciplina |  |
+| 30 | 25/03/2026 | Final da disciplina |  |
 
 
 ## Projeto
